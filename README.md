@@ -27,9 +27,9 @@ The central dogma describes how the genetic code in our DNA is converted into th
 
 
 ## StreamLit Page
-<img width="1918" height="944" alt="1" src="https://github.com/user-attachments/assets/9cdcc080-6bf6-413b-bbe1-745bbbe96e05" />
-<img width="1917" height="922" alt="2" src="https://github.com/user-attachments/assets/ec2815b8-42c4-47b4-89bb-deae19e92440" />
-<img width="1918" height="925" alt="3" src="https://github.com/user-attachments/assets/bfc490e6-a74f-4e40-8a6c-329017c3b47e" />
+<img width="1918" height="931" alt="1" src="https://github.com/user-attachments/assets/a06ce307-67e9-4cfd-9147-a6c8d49739eb" />
+<img width="1918" height="936" alt="2" src="https://github.com/user-attachments/assets/0d31c342-2a59-4ea5-aef9-d29224504de7" />
+<img width="1918" height="933" alt="3" src="https://github.com/user-attachments/assets/40df41da-c920-4387-b0b3-fb93f520ea8b" />
 
 ## Applications
 
@@ -53,4 +53,5 @@ The central dogma describes how the genetic code in our DNA is converted into th
 
 - [@pavankumaramanchi](https://github.com/pavankumaramanchi)
 - **Repository :** [https://github.com/pavankumaramanchi/Image-Encryption-Algorithm-Based-On-Genetic-Central-Dogma](https://github.com/Pavankumaramanchi/Image-Encryption-Decryption-Based-On-Genetic-Central-Dogma)
+
 
