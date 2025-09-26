@@ -52,4 +52,5 @@ The central dogma describes how the genetic code in our DNA is converted into th
 ## Author
 
 - [@pavankumaramanchi](https://github.com/pavankumaramanchi)
-- **Repository :** https://github.com/pavankumaramanchi/Image-Encryption-Algorithm-Based-On-Genetic-Central-Dogma
+- **Repository :** [https://github.com/pavankumaramanchi/Image-Encryption-Algorithm-Based-On-Genetic-Central-Dogma](https://github.com/Pavankumaramanchi/Image-Encryption-Decryption-Based-On-Genetic-Central-Dogma)
+
